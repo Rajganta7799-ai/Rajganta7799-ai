@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Senior+Data+Engineer+%7C+13%2B+Years+Experience;Databricks+%7C+DataStage+%7C+Spark+%7C+Python;AWS+%7C+Azure+%7C+GCP+Cloud+Platforms;Learning+Gen+AI+%26+Agentic+AI+%F0%9F%A4%96;Open+to+C2C+%7C+H1B+%7C+Remote+Roles+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rajganta7799-ai&color=00d4ff&style=flat-square&label=Profile+Views)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/rajeshganta)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rajesh-ganta-48b769201/)
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-C2C%20%7C%20H1B%20%7C%20Remote-brightgreen?style=flat-square)]()
 
 </div>
@@ -38,9 +38,7 @@ rajesh_ganta = {
 ![IBM DataStage](https://img.shields.io/badge/IBM%20DataStage-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+
 
 ### ☁️ Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
